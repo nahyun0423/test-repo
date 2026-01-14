@@ -1,2 +1,2 @@
-coupon domain model v1
+coupon entity v1 (renamed)
 evaluator: calculate reward
