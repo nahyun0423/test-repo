@@ -1,1 +1,2 @@
 coupon domain model v1
+evaluator: calculate reward
